@@ -1,7 +1,7 @@
-# Pitt Fuego Professional Webpage Basics
+# Sustainable Design
 
  
-### This ultra-lite template includes responsive design and cool tools like navigation and modal views...everything you need to get going on your professional journey. It's built on a pure css framework, so integrating your own stylings is straightforward. 
+### What is sustainable design, why is it so important, and how do we encourage others to pursue it?
 
 
 
@@ -9,13 +9,13 @@
 
 ## Get started!
 
-1. Go to the Professional Website Basics repository: [Here](https://github.com/Pitt-Fuego/professional-website-basics)
+1. Go to the Sustainable Design repository: [Here](https://pitt-fuego.github.io/Sustainable-Design/)
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. Download and/or open a text editor like [brackets.io](https://brackets.io), [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org). 
+4. Download and/or open a text editor like [brackets.io](https://brackets.io) or CodePad on Chromebooks. 
 
 5. Use the text editor to open the style.css and index.html documents from your project folder.  
 
